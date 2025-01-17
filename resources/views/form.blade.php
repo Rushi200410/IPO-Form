@@ -72,7 +72,9 @@
 
               <div class="row justify-content-center">
                 <div class="col-sm-2 ms-5 mt-4 mb-2">
-                  <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+                  <button type="submit" class="btn btn-primary btn-lg">Submit</button><br>
+                  &nbsp;&nbsp;<a href="{{route('UplodePage')}}">Re-Upload</a>
+                  {{-- <a href="{{}}" --}}
                 </div>
               </div>
 
